@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728309601863",
+    "firebase_url": "https://afh-38a64.firebaseio.com",
+    "project_id": "afh-38a64",
+    "storage_bucket": "afh-38a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728309601863:android:6a249d0c8bf4aa95d58362",
+        "android_client_info": {
+          "package_name": "com.isgone.afh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728309601863-ke56u4oph0r3ll995p4qlb2n0rm55rvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVsn5zdHTVlwmrzaKH3KG4ou4al--EC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728309601863-ke56u4oph0r3ll995p4qlb2n0rm55rvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
